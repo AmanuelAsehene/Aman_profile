@@ -1,4 +1,6 @@
 {
+    "homepage": "https://AmanuelAsehene.github.io/Aman_profile",
+  
   "scripts": {
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build"
